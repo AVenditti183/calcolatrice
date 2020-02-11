@@ -1,0 +1,11 @@
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\bin\Debug\netcoreapp3.0\calcolatrice_Console.exe
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\bin\Debug\netcoreapp3.0\calcolatrice_Console.deps.json
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\bin\Debug\netcoreapp3.0\calcolatrice_Console.runtimeconfig.json
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\bin\Debug\netcoreapp3.0\calcolatrice_Console.runtimeconfig.dev.json
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\bin\Debug\netcoreapp3.0\calcolatrice_Console.dll
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\bin\Debug\netcoreapp3.0\calcolatrice_Console.pdb
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\obj\Debug\netcoreapp3.0\calcolatrice_Console.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\obj\Debug\netcoreapp3.0\calcolatrice_Console.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\obj\Debug\netcoreapp3.0\calcolatrice_Console.AssemblyInfo.cs
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\obj\Debug\netcoreapp3.0\calcolatrice_Console.dll
+C:\Users\anton\source\repos\calcolatrice_Console\calcolatrice_Console\obj\Debug\netcoreapp3.0\calcolatrice_Console.pdb
